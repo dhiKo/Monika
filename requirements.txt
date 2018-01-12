@@ -1,6 +1,2 @@
 discord.py
-random
-asyncio
-requests
-datetime
-time
+asyncio.py
