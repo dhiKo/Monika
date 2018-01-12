@@ -1,6 +1,6 @@
 discord.py
-random.py
-asyncio.py
-requests.py
-datetime.py
-time.py
+random
+asyncio
+requests
+datetime
+time
